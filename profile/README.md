@@ -36,21 +36,15 @@ We're committed to building in public and contributing to the Web3 community:
 
 ## 👥 Meet the Team
 
-### 🎯 Leadership
+<div align="center">
 
-![Rama](https://api.dicebear.com/9.x/avataaars/svg?seed=Rama)  
-**Rama**  
-*Chief Executive Officer*  
-Visionary leader driving Waffle's mission to revolutionize Web3 trust and reputation systems. | ![Rei](https://api.dicebear.com/9.x/avataaars/svg?seed=Rei)  
-**Rei**  
-*Chief Technology Officer*  
-Technical architect ensuring robust, scalable, and secure infrastructure for the Waffle ecosystem. | ![Adib](https://api.dicebear.com/9.x/avataaars/svg?seed=Adib)  
-**Adib**  
-*Chief Operating Officer*  
-Operations expert streamlining processes and ensuring efficient execution across all Waffle initiatives. | ![Meli](https://api.dicebear.com/9.x/avataaars/svg?seed=Meli)  
-**Meli**  
-*Chief Marketing Officer*  
-Marketing strategist building community and spreading the Waffle vision across the Web3 ecosystem.
+|                                    👑 **Rama**                                    |                                   🔧 **Rei**                                    |                                    ⚡ **Adib**                                    |                                    🎯 **Melisa**                                    |
+| :------------------------------------------------------------------------------: | :----------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: |
+| ![Rama](https://api.dicebear.com/9.x/avataaars/svg?seed=Rama&width=80&height=80) | ![Rei](https://api.dicebear.com/9.x/avataaars/svg?seed=Rei&width=80&height=80) | ![Adib](https://api.dicebear.com/9.x/avataaars/svg?seed=Adib&width=80&height=80) | ![Melisa](https://api.dicebear.com/9.x/avataaars/svg?seed=Melisa&width=80&height=80) |
+|                            *Chief Executive Officer*                             |                           *Chief Technology Officer*                           |                            *Chief Operating Officer*                             |                            *Chief Marketing Officer*                             |
+|                           Visionary driving Web3 trust                           |                              Technical architect                               |                                Operations expert                                 |                                Community builder                                 |
+
+</div>
 
 ### 🌟 Our Values
 
